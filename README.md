@@ -3,7 +3,7 @@ About r-compquadform
 
 Home: https://CRAN.R-project.org/package=CompQuadForm
 
-Package license: GPL (>= 2)
+Package license: GPL-2.0-or-later
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-compquadform-feedstock/blob/main/LICENSE.txt)
 
